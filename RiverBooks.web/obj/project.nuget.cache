@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2J21AEWAFU=",
+  "success": true,
+  "projectFilePath": "C:\\Personal Code Repos\\Modular-Monolith-Getting-Started\\RiverBooks.Web\\RiverBooks.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

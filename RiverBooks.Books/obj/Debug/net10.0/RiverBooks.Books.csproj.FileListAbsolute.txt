@@ -1,0 +1,12 @@
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\bin\Debug\net10.0\RiverBooks.Books.deps.json
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\bin\Debug\net10.0\RiverBooks.Books.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\bin\Debug\net10.0\RiverBooks.Books.pdb
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.AssemblyInfoInputs.cache
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.AssemblyInfo.cs
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.csproj.CoreCompileInputs.cache
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.sourcelink.json
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\refint\RiverBooks.Books.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.pdb
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\ref\RiverBooks.Books.dll
