@@ -34,3 +34,10 @@ C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\obj\Debug
 C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\obj\Debug\net10.0\ref\RiverBooks.Web.dll
 C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\RiverBooks.Books.dll
 C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\RiverBooks.Books.pdb
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FastEndpoints.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FastEndpoints.Attributes.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FastEndpoints.Core.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FastEndpoints.JobQueues.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FastEndpoints.Messaging.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FastEndpoints.Messaging.Core.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Web\bin\Debug\net10.0\FluentValidation.dll

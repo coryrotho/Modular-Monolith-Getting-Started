@@ -10,3 +10,4 @@ C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Deb
 C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\refint\RiverBooks.Books.dll
 C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.pdb
 C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\ref\RiverBooks.Books.dll
+C:\Personal Code Repos\Modular-Monolith-Getting-Started\RiverBooks.Books\obj\Debug\net10.0\RiverBooks.Books.csproj.AssemblyReference.cache
