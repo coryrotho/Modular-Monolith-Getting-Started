@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "u2J21AEWAFU=",
+  "dgSpecHash": "qKbUydL4Fdw=",
   "success": true,
   "projectFilePath": "C:\\Personal Code Repos\\Modular-Monolith-Getting-Started\\RiverBooks.Web\\RiverBooks.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints\\8.1.0\\fastendpoints.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.attributes\\8.1.0\\fastendpoints.attributes.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.core\\8.1.0\\fastendpoints.core.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.jobqueues\\8.1.0\\fastendpoints.jobqueues.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.messaging\\8.1.0\\fastendpoints.messaging.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.messaging.core\\8.1.0\\fastendpoints.messaging.core.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\rothenbergerc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\rothenbergerc\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],

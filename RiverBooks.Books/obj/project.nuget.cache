@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "6bIWORmkXxQ=",
+  "dgSpecHash": "Bj83Td2L278=",
   "success": true,
   "projectFilePath": "C:\\Personal Code Repos\\Modular-Monolith-Getting-Started\\RiverBooks.Books\\RiverBooks.Books.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints\\8.1.0\\fastendpoints.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.attributes\\8.1.0\\fastendpoints.attributes.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.core\\8.1.0\\fastendpoints.core.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.jobqueues\\8.1.0\\fastendpoints.jobqueues.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.messaging\\8.1.0\\fastendpoints.messaging.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fastendpoints.messaging.core\\8.1.0\\fastendpoints.messaging.core.8.1.0.nupkg.sha512",
+    "C:\\Users\\rothenbergerc\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
